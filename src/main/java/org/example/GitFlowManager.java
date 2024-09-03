@@ -26,7 +26,6 @@ public class GitFlowManager {
         }
     }
 
-    // Métodos adicionais para testes
     public int getCommitHistorySize() {
         return commitHistory.size();
     }

@@ -3,7 +3,6 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 
-// Originador
 public class Commit {
     private String branch;
     private String commitHash;
